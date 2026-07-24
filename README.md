@@ -1,12 +1,8 @@
 <div align="center">
-
 <table>
 <tr>
-<td valign="top">
-
-<pre style="color:#e6e6e6; background:#0d1117; line-height:1; font-size:6px; padding:16px; border-radius:8px;">
-
-
+<td width="35%" valign="middle">
+<pre style="color:#58a6ff; background:#0d1117; font-size:6px; line-height:6px; margin:0; overflow:hidden;">
 :::::::....::::..:....: ...::: ..  . .: :.:::...:::.-:------::::......::..   ...:--==-:========
 :::::::....-==-::.....-. ... :..:.:::: .-.::... . .. :-::----::......::::.....:-=+++==----===--
 :::---:...:-==--::...:::-:.:-. .:.... ..  ...    ..:..::::.--:.......:::.::::--+**+==-----=====
@@ -42,10 +38,37 @@
 ----=--=------:-=====--:::...:-=:::. .+**-     ...:::::::::--:-------=------:-------------- -:-
 ------::-:-----:---=======--::.  .--::..-    ...:::::::::-:-:-:------------.:---:-:-::-:-.:-:..
 ------:::::--------:---=--===----::. .  *+#..:::::::-:----::----:-=----=--::::-:.:-:.:--.:::::.
+</pre>
+</td>
+<td width="65%" valign="middle">
+<pre style="color:#58a6ff; background:#0d1117; padding:16px; border-radius:8px; font-size:12px; line-height:1.4; margin:0;">
+arshad-780180
+-----------------------------------------------------------
+OS: ........................ Windows 11, Linux
+Uptime: .................... B.Tech CSE (Data Science), 2023-2027
+Host: ...................... Mar Athanasius College of Engineering
+Kernel: .................... Data Science + Backend Development
+IDE: ....................... VS Code, PyCharm
+Languages.Programming: ..... Python, C++, Java (basic)
+Languages.Computer: ........ HTML, CSS, JavaScript, JSON
+Languages.Real: ............ English, Malayalam
+Hobbies.Software: .......... Data Analysis, Backend Dev, AI Apps
+Hobbies.Hardware: .......... edit me
 
+- Contact ---------------------------------------------------
+Email: ...................... arshad780180@gmail.com
+LinkedIn: ................... linkedin.com/in/arshadva
+Roles: ....................... Open to Internships / Full-time roles
 
-</pre> </td> <td valign="top"> <pre style="color:#58a6ff; background:#0d1117; padding:20px; border-radius:8px; font-size:13px;"> arshad-780180 ----------------------------------------------------------- OS: ........................ Windows 11, Linux Uptime: .................... B.Tech CSE (Data Science), 2023-2027 Host: ...................... Mar Athanasius College of Engineering Kernel: .................... Data Science + Backend Development IDE: ....................... VS Code, PyCharm Languages.Programming: ..... Python, C++, Java (basic) Languages.Computer: ........ HTML, CSS, JavaScript, JSON Languages.Real: ............ English, Malayalam Hobbies.Software: .......... Data Analysis, Backend Dev, AI Apps Hobbies.Hardware: .......... edit me - Contact --------------------------------------------------- Email: ...................... arshad780180@gmail.com LinkedIn: ................... linkedin.com/in/arshadva Roles: ....................... Open to Internships / Full-time roles - GitHub Stats ------------------------------------------------ Repos: ....................... 3 Commits: ..................... edit me Lines of Code on GitHub: ..... edit me </pre> </td> </tr> </table> </div>
-<p align="center"> <a href="https://www.linkedin.com/in/arshadva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" /></a> <a href="mailto:arshad780180@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ffb000" /></a> <a href="https://github.com/arshad-780180" target="_blank"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://komarev.com/ghpvc/?username=arshad-780180&style=for-the-badge&color=ffb000&labelColor=0d1117" alt="visitors" /> </p>
+- GitHub Stats ------------------------------------------------
+Repos: ....................... 3
+Commits: ..................... edit me
+Lines of Code on GitHub: ..... edit me
+</pre>
+</td>
+</tr>
+</table>
+</div>
 $ cat about.txt
 bash
 > Final-year B.Tech CSE (Data Science) student at Mar Athanasius College
