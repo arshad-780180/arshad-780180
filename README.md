@@ -1,114 +1,144 @@
-<h1 align="center">Hi 👋, I'm Arshad V A</h1>
-<h3 align="center">B.Tech CSE (Data Science) Final Year | Python Developer | Full-Stack Enthusiast | Actively Seeking Internships/Jobs</h3>
+<div align="center">
+
+```
+┌─[arshad@dev]─[~]
+└──╼ whoami
+```
+
+# Arshad V A
+
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Data+Science+%26+ML+Enthusiast;Backend+Developer+(Node.js+%2F+Express.js);Building+CivicShield%2B+and+more..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(Data+Science)+%40+MACE;Python+%2B+Node.js+Developer;Building+CivicShield%2B;Actively+seeking+internships+%2F+jobs" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arshadva" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:arshad780180@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/arshad-780180" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/status-online-00FF41?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=arshad-780180&style=for-the-badge&color=00FF41&labelColor=0d1117" alt="visitors" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arshad-780180&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-orange?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/arshadva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
+  <a href="mailto:arshad780180@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
+  <a href="https://github.com/arshad-780180" target="_blank"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF41" /></a>
 </p>
+
+<div align="center">
+
+![terminal divider](https://raw.githubusercontent.com/mayankk2308/mayankk2308/master/rocket.svg)
+
+</div>
 
 ---
 
-### 🧑‍💻 About Me
+### `$ cat about.txt`
 
-I'm a **Data Science (B.Tech)** student who enjoys turning ideas into working software — from data analysis scripts to full-stack web apps. I like building things that solve real problems, not just tick a syllabus box.
+```bash
+> Final-year B.Tech CSE (Data Science) student at Mar Athanasius College
+> of Engineering, Kothamangalam (2023 – 2027).
 
-- 🎯 Focused on **Python, Data Analysis & Backend Development**
-- 🌱 Currently strengthening **Java fundamentals** and exploring **AI-driven applications**
-- 🚀 Built **CivicShield+**, an AI-powered safety platform, at the `.hack();_ 2025` hackathon (IEEE MACE SB)
-- 🎓 Completed **Tata's GenAI Powered Data Analytics** job simulation (Forage)
-- 💬 Ask me about **Python, Node.js, MySQL, or DSA**
-- ⚡ Fun fact: I'd rather finish a feature at midnight than leave it half-built
+> Strong in Python — applied across data analysis, EDA and project work.
+> Also build full-stack apps with HTML, Node.js & Express, and I'm
+> currently levelling up my Java fundamentals.
 
----
+> Built CivicShield+ at .hack();_ 2025 (IEEE MACE SB) — an AI-powered
+> safety platform with voice-assisted reporting, one-tap SOS and
+> crowdsourced safety data.
 
-### 🛠️ Tech Stack
+> Completed Tata's "GenAI Powered Data Analytics" job simulation
+> on Forage — exploratory data analysis + AI-driven strategy.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,nodejs,express,mysql,mongodb,firebase,git,github,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20With-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Domain-Data%20Science%20%7C%20Backend%20Dev-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-brightgreen?style=flat-square" />
-</p>
+> STATUS: open_to_work = True
+```
 
 ---
 
-### 📌 Featured Projects
+### `$ ls ~/skills --tree`
 
-| Project | Description |
-|---|---|
-| 🚕 **Courier Management System** | Web-based app for courier booking, tracking, user management, and an admin dashboard — built with Node.js, Express.js, EJS, and MySQL. |
-| 🛡️ **CivicShield+** | AI-powered safety and accessibility platform with voice-assisted reporting, one-tap SOS, crowdsourced safety data, and accessibility ratings. Built at `.hack();_ 2025` (IEEE MACE SB). |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,nodejs,express,mysql,mongodb,firebase,git,github,vscode&theme=dark" />
+</p>
+
+```
+skills/
+├── languages/       → Python, C++, Java (basic)
+├── core_cs/         → Data Structures & Algorithms, DBMS, OOP
+├── databases/       → MySQL, MongoDB, Firebase
+├── web/             → HTML, CSS, JavaScript, Node.js, Express.js, EJS
+└── tools/           → Git, GitHub, VS Code
+```
 
 ---
 
-### 📊 GitHub Activity
+### `$ ls ~/projects --long`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arshad-780180&show_icons=true&theme=react&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=arshad-780180&theme=react&hide_border=true" width="48%" />
-</p>
+```bash
+drwxr-xr-x  courier-management-system/
+    → Web app for courier booking, tracking & user management,
+      with an admin dashboard. Built with Node.js, Express.js, EJS, MySQL.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arshad-780180&theme=react-dark&hide_border=true" width="97%" />
-</p>
-
-<!-- Contribution Snake: enable the Platane/snk GitHub Action in this repo to activate -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arshad-780180/arshad-780180/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
-> ✨ To activate the snake animation above: enable the [Platane/snk](https://github.com/Platane/snk) GitHub Action in this repo — it auto-generates the animation from your contribution graph.
+drwxr-xr-x  civicshield-plus/
+    → AI-powered safety & accessibility platform. Voice-assisted
+      reporting, one-tap SOS, location sharing, accessibility ratings.
+      Built at .hack();_ 2025 hackathon (IEEE MACE SB).
+```
 
 ---
 
-### ✅ What I Bring
+### `$ cat strengths.log`
 
-| Strength | Detail |
-|---|---|
-| 🎯 Problem-first mindset | I build tools that solve a real need, not just for practice |
-| 🔁 End-to-end thinking | Comfortable from database design to frontend to deployment |
-| ⚡ Fast learner | Picked up Node.js/Express and AI tooling while shipping real projects |
-| 🗣️ Clear communicator | Can explain the "why" behind a design choice, not just the code |
-
----
-
-### 🎯 Interests
-
-`Backend Development` • `Data Science` • `Problem Solving` • `AI Applications`
+```diff
++ [problem-first mindset]   every build starts from a real need, not a tutorial
++ [end-to-end thinking]     comfortable from DB schema to UI to deployment
++ [fast learner]            picked up Express + AI tooling mid-hackathon
++ [clear communicator]      can explain the "why" behind a design, not just the "what"
+```
 
 ---
 
-### 📫 Let's Connect
-
-I'm actively looking for **internship and full-time opportunities** in **Software Development / Data Analytics**. If my work looks like a fit, I'd love to talk.
+### `$ ./run_stats.sh`
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arshadva" target="_blank">
-    <img src="https://img.shields.io/badge/Message%20me%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:arshad780180@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=arshad-780180&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=arshad-780180&theme=highcontrast&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="48%" />
 </p>
 
-<p align="center"><i>⭐ Thanks for stopping by — feel free to explore my repos!</i></p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arshad-780180&theme=github-compact&hide_border=true&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff" width="97%" />
+</p>
+
+<!-- Contribution snake — enable Platane/snk GitHub Action to activate -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arshad-780180/arshad-780180/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+> `# enable Platane/snk GitHub Action in this repo to render the snake above`
+
+---
+
+### `$ cat connect.sh`
+
+```bash
+#!/bin/bash
+echo "Open to internships & entry-level roles in Software Dev / Data Analytics"
+echo "Let's build something →"
+```
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arshadva" target="_blank"><img src="https://img.shields.io/badge/message%20me-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
+  <a href="mailto:arshad780180@gmail.com"><img src="https://img.shields.io/badge/send%20me-an%20Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
+</p>
+
+<div align="center">
+
+```
+└──╼ echo "thanks for stopping by — feel free to explore my repos ⚡"
+```
+
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="0" height="0" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" />
+</p>
