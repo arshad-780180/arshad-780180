@@ -20,27 +20,5 @@ LinkedIn: ................... linkedin.com/in/arshadva
 Roles: ....................... Open to Internships / Full-time roles
 
 
-</pre>
-</td>
-</tr>
-</table>
-</div>
-$ cat about.txt
-bash
-> Final-year B.Tech CSE (Data Science) student at Mar Athanasius College
-> of Engineering, Kothamangalam (2023 - 2027).
 
-> Strong in Python -- applied across data analysis, EDA and project work.
-> Also build full-stack apps with HTML, Node.js & Express, and currently
-> levelling up Java fundamentals.
-
-> Built CivicShield+ at .hack();_ 2025 (IEEE MACE SB) -- an AI-powered
-> safety platform with voice-assisted reporting, one-tap SOS and
-> crowdsourced safety data.
-
-> Completed Tata's "GenAI Powered Data Analytics" job simulation
-> on Forage -- exploratory data analysis + AI-driven strategy.
-
-> STATUS: open_to_work = True
-$ ls ~/skills --tree
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,nodejs,express,mysql,mongodb,firebase,git,github,vscode&theme=dark" /> </p>
