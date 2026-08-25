@@ -96,24 +96,6 @@ Exploring datasets, extracting insights and developing predictive solutions usin
 
 ---
 
-## `📊 GitHub`
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arshad780180&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshad780180&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=arshad780180&theme=github-dark-blue&hide_border=true" />
-
-</p>
-
----
-
 ## `🌱 Currently`
 
 ```text
