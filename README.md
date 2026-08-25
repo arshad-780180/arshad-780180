@@ -1,58 +1,155 @@
 <div align="center">
 
-# Arshad V A
+# `ARSHAD V A`
 
-### B.Tech CSE (Data Science) · Python Developer · AI & Full-Stack Enthusiast
+### `Data Science × Software Development`
 
-<p>
-  <a href="https://arshad-780180.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-58a6ff?style=for-the-badge"/>
-  </a>
-  <a href="https://linkedin.com/in/arshadva">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+**B.Tech CSE (Data Science) • Python Developer • Backend & AI Enthusiast**
+
+<br>
+
+<a href="https://arshad-780180.github.io/portfolio/">
+<img src="https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-Visit%20Portfolio-58A6FF?style=for-the-badge"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/arshadva">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 👋 About Me
+## `> whoami`
 
-- 🎓 B.Tech CSE (Data Science) — Mar Athanasius College of Engineering
-- 🐍 Python Developer with interests in AI, Data Science & Backend Development
-- ⚙️ Building full-stack and AI-powered applications
-- 🚀 Interested in turning real-world problems into practical software
-- 💼 Open to Internships & Full-Time Opportunities
+```text
+Arshad V A
+├── 🎓 B.Tech CSE (Data Science)     2023 — 2027
+├── 🐍 Python Developer
+├── ⚙️ Backend & Full-Stack Developer
+├── 🤖 AI / Data Science Enthusiast
+└── 🚀 Building practical, real-world applications
+```
 
-## 🛠️ Tech Stack
+> **I enjoy turning ideas into useful software — from data and AI to backend systems and full-stack applications.**
+
+---
+
+## `⚡ What I Build`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI & Data
+
+Machine Learning
+Data Analysis
+AI Applications
+Data-driven Solutions
+
+</td>
+<td width="50%">
+
+### 💻 Software
+
+Backend Systems
+Full-Stack Applications
+REST APIs
+Database-driven Applications
+
+</td>
+</tr>
+</table>
+
+---
+
+## `🧰 Tech Stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,nodejs,express,mongodb,mysql,firebase,git,github,vscode&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,nodejs,express,mysql,mongodb,firebase,git,github,vscode&perline=7&theme=dark"/>
+
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## `🚀 Selected Work`
 
-**OmniMind** — AI Digital Twin  
-Career intelligence platform for skill analysis, career readiness and personalized learning.
+### 🌐 Portfolio
 
-**Atlas** — AI Software Architect  
-Transforms project ideas into architecture, database schemas, APIs and development plans.
+**My complete projects, skills, experience and technical journey.**
 
-**CyberGuard** — Digital Behavior Risk Analyzer  
-ML-powered mobile application for cybersecurity risk analysis.
+→ **[Explore Portfolio](https://arshad-780180.github.io/portfolio/)**
 
-**CivicShield+** — AI Civic Safety Platform  
-Hackathon project focused on intelligent incident reporting and community safety.
+### 🚦 Smart Traffic Congestion System
+
+AI/data-driven platform for analysing traffic conditions, forecasting congestion and supporting city-level decision making.
+
+### 🧠 AI-Powered Applications
+
+Building applications that combine intelligent analysis, automation and practical user experiences.
+
+### 📊 Data Science Projects
+
+Exploring datasets, extracting insights and developing predictive solutions using Python and machine learning.
 
 ---
 
+## `📊 GitHub`
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=arshad780180&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshad780180&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=arshad780180&theme=github-dark-blue&hide_border=true" />
+
+</p>
+
+---
+
+## `🌱 Currently`
+
+```text
+Learning      →  Advanced Backend Development
+Exploring     →  AI + Data Science
+Building      →  Real-world Software Projects
+Improving     →  System Design & Problem Solving
+Looking for   →  Internships & Full-Time Opportunities
+```
+
+---
+
+## `🤝 Let's Connect`
+
+<p align="center">
+
+<a href="https://arshad-780180.github.io/portfolio/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-58A6FF?style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/arshadva">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:arshad780180@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<br>
+
 <div align="center">
 
-### 🌐 Explore my work
+### `Build • Learn • Solve • Repeat`
 
-**[Portfolio](https://arshad-780180.github.io/portfolio/)** · **[LinkedIn](https://linkedin.com/in/arshadva)**
+*Thanks for visiting my profile.*
 
 </div>
