@@ -1,138 +1,64 @@
 <div align="center">
 
-# `ARSHAD V A`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1500&color=58A6FF&center=true&vCenter=true&width=620&lines=Hello%2C+I'm+Arshad+V+A;QA+Analyst+Intern+%40+IMA360;Python+%7C+Data+Science+%7C+Software" alt="Typing introduction" />
 
-### `Data Science × Software Development`
+**B.Tech Computer Science and Engineering (Data Science)**  
+Mar Athanasius College of Engineering · 2023–2027
 
-**B.Tech CSE (Data Science) • Python Developer • Backend & AI Enthusiast**
-
-<br>
-
-<a href="https://arshad-780180.github.io/portfolio/">
-<img src="https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-Visit%20Portfolio-58A6FF?style=for-the-badge"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/arshadva">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[Portfolio](https://arshad-portfolio-beryl.vercel.app) ·
+[LinkedIn](https://www.linkedin.com/in/arshadva) ·
+[GitHub](https://github.com/arshad-780180) ·
+[Email](mailto:arshad780180@gmail.com)
 
 </div>
 
 ---
 
-## `> whoami`
+## About
 
-```text
-Arshad V A
-├── 🎓 B.Tech CSE (Data Science)     2023 — 2027
-├── 🐍 Python Developer
-├── ⚙️ Backend & Full-Stack Developer
-├── 🤖 AI / Data Science Enthusiast
-└── 🚀 Building practical, real-world applications
-```
+I'm **Arshad V A**, a final-year B.Tech student in Computer Science and Engineering (Data Science). I'm currently a **QA Analyst Intern at IMA360**, working across software testing, test case design, test execution and defect validation.
 
-> **I enjoy turning ideas into useful software — from data and AI to backend systems and full-stack applications.**
+Based in **Kasaragod, Kerala, India**.
 
----
+## Skills
 
-## `⚡ What I Build`
+| Area | Skills |
+|---|---|
+| **Testing & QA** | Software Testing · Quality Assurance · Test Case Design |
+| **Languages** | Python · SQL · HTML · C++ |
+| **Concepts** | Data Structures & Algorithms · OOP · DBMS · Operating Systems · Prompt Engineering · Machine Learning |
 
-<table>
-<tr>
-<td width="50%">
+## Projects
 
-### 🤖 AI & Data
+| Project | Description | Repository |
+|---|---|---|
+| **Flowcast** | Smart traffic intelligence platform that predicts travel times using historical traffic, weather, road and temporal data. | [GitHub](https://github.com/nehas2004/Smart_Traffic_Congestion) |
+| **CyberGuard** | AI-powered digital behavior risk analyzer built as an Android application using Flutter and Firebase. | [GitHub](https://github.com/amritha0503/mini-project) |
+| **KeralaLM Tiny** | Malayalam language model project focused on building a small Malayalam-native language model. | [GitHub](https://github.com/athul-dev-sys/malayalam-slm) |
+| **janavedhi** | Kerala civic-tech platform for public accountability, including a Democratic Temperature Index and a tracker for MP and MLA promises. | [GitHub](https://github.com/ajmal0005/janavedi-kerala) |
 
-Machine Learning
-Data Analysis
-AI Applications
-Data-driven Solutions
+## Experience & Education
 
-</td>
-<td width="50%">
+**QA Analyst Intern · IMA360**  
+September 2026 – Present
 
-### 💻 Software
+- Software testing and quality assurance
+- Test case preparation
+- Test execution
+- Defect validation
 
-Backend Systems
-Full-Stack Applications
-REST APIs
-Database-driven Applications
-
-</td>
-</tr>
-</table>
+**B.Tech Computer Science and Engineering (Data Science)**  
+Mar Athanasius College of Engineering · 2023–2027  
+CGPA: **8.41** *(till S6)*
 
 ---
-
-## `🧰 Tech Stack`
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,nodejs,express,mysql,mongodb,firebase,git,github,vscode&perline=7&theme=dark"/>
-
-</p>
-
----
-
-## `🚀 Selected Work`
-
-### 🌐 Portfolio
-
-**My complete projects, skills, experience and technical journey.**
-
-→ **[Explore Portfolio](https://arshad-780180.github.io/portfolio/)**
-
-### 🚦 Smart Traffic Congestion System
-
-AI/data-driven platform for analysing traffic conditions, forecasting congestion and supporting city-level decision making.
-
-### 🧠 AI-Powered Applications
-
-Building applications that combine intelligent analysis, automation and practical user experiences.
-
-### 📊 Data Science Projects
-
-Exploring datasets, extracting insights and developing predictive solutions using Python and machine learning.
-
----
-
-## `🌱 Currently`
-
-```text
-Learning      →  Advanced Backend Development
-Exploring     →  AI + Data Science
-Building      →  Real-world Software Projects
-Improving     →  System Design & Problem Solving
-Looking for   →  Internships & Full-Time Opportunities
-```
-
----
-
-## `🤝 Let's Connect`
-
-<p align="center">
-
-<a href="https://arshad-780180.github.io/portfolio/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-58A6FF?style=for-the-badge"/>
-</a>
-
-<a href="https://linkedin.com/in/arshadva">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:arshad780180@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
-<br>
 
 <div align="center">
 
-### `Build • Learn • Solve • Repeat`
+**Let's connect**
 
-*Thanks for visiting my profile.*
+[Portfolio](https://arshad-portfolio-beryl.vercel.app) · [LinkedIn](https://www.linkedin.com/in/arshadva) · [Email](mailto:arshad780180@gmail.com)
+
+<sub>Build · Learn · Improve</sub>
 
 </div>
-
